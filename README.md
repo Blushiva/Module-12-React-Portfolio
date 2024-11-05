@@ -59,6 +59,11 @@ WHEN I view the footer
 
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
+# Resources
+
+[How to Build a Portfolio](https://medium.com/@keilalofra/building-a-portfolio-using-create-react-app-and-netlify-fed783f8b6cf)
+
+
 ### Getting Started
 
 The application that you built for this module will help you know where to start when building your portfolio. You’ll use Create Vite just as you did with your module project, but you should be aware of a few structural differences in the component hierarchy. Your portfolio should include the following:
@@ -104,11 +109,8 @@ As with the previous portfolio Challenge, remember that "good" design is subject
 #### Examples of incomplete submissions include the following:
 
 * A repository that has no code
-
 * A repository that includes a unique name but nothing else
-
 * A repository that includes only a README file but nothing else
-
 * A repository that only includes starter code
 
 #### This Challenge is graded based on the following criteria:
