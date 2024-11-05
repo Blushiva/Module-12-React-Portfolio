@@ -63,6 +63,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 [How to Build a Portfolio](https://medium.com/@keilalofra/building-a-portfolio-using-create-react-app-and-netlify-fed783f8b6cf)
 
+[How to Build a Portfolio in React](https://www.youtube.com/watch?v=YQCDUJ6hhNY)
+
+
 
 ### Getting Started
 
