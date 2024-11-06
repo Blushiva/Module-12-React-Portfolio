@@ -1,11 +1,12 @@
 
 import styles from './AppModule.css';
+import { Navbar } from 'portfolio/src/components/navbar.js';
 
 function App() {
   return (
     <div className={styles.App}>
       <h1>
-        Hello, world!
+        Navbar
       </h1>
     </div>
   );
